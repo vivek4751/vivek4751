@@ -43,7 +43,7 @@
 
 ---
 
-## `{ Tech Stack }`
+##  Tech Stack 
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 </div>
 
-## `{ AI / ML & Deep Learning Expertise }`
+##  AI / ML & Deep Learning Expertise
 
 <div align="center">
 
@@ -79,15 +79,15 @@
 | **Machine Learning** | ◆◆◆◆◇ | Regression, Classification, SVM, Decision Trees, Ensemble Methods |
 
 </div>
-## `{ Coding Profiles }`
+
+##  Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221)](https://leetcode.com/vivek4751)
-
 [![CodeChef](https://img.shields.io/badge/CodeChef-Rating%201683-4f46e5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0221)](https://www.codechef.com/users/vivek4751)
-
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201422-6d28d9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221)](https://codeforces.com/profile/ranjanvivek515)
 
-
 </div>
+
+
