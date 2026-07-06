@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=B.Tech+Electrical+Engineering+%40+IIT+Bhubaneswar;Full+Stack+Engineer+%E2%80%94+MERN+Stack+%2B+React;Deep+Learning+%26+Neural+Network+Explorer;550%2B+LeetCode+%7C+DSA+%26+Competitive+Programming;Building+Intelligent+%26+Scalable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=B.Tech+Electrical+Engineering+%40+IIT+Bhubaneswar;Full+Stack+Engineer+%E2%80%94+MERN+Stack+%2B+React;Deep+Learning+%26+Neural+Network+Explorer;600%2B+LeetCode+%7C+DSA+%26+Competitive+Programming)](https://git.io/typing-svg)
 
 </div>
 
