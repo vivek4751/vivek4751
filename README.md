@@ -87,7 +87,7 @@
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Rating%201683-4f46e5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0221)](https://www.codechef.com/users/vivek4751)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201250-6d28d9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221)](https://codeforces.com/profile/ranjanvivek515)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201422-6d28d9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221)](https://codeforces.com/profile/ranjanvivek515)
 
 
 </div>
