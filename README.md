@@ -73,8 +73,8 @@
 
 <div align="center">
 
-| Domain | Proficiency | Technologies |
-|:---|:---:|:---|
+| Domain | Proficiency | 
+|:---|:---:|
 | **Deep Learning** | ◆◆◆◆◇ | 
 | **Machine Learning** | ◆◆◆◆◇ |
 
