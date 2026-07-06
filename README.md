@@ -75,8 +75,8 @@
 
 | Domain | Proficiency | Technologies |
 |:---|:---:|:---|
-| **Deep Learning** | ◆◆◆◆◇ | Neural Networks, CNNs, RNNs, LSTMs, Backpropagation |
-| **Machine Learning** | ◆◆◆◆◇ | Regression, Classification, SVM, Decision Trees, Ensemble Methods |
+| **Deep Learning** | ◆◆◆◆◇ | 
+| **Machine Learning** | ◆◆◆◆◇ |
 
 </div>
 
