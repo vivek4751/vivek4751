@@ -25,7 +25,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vivek4751.github.io-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek4751.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--ranjan-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-ranjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--ranjan-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-ranjan-a82624205/)
 [![Email](https://img.shields.io/badge/Email-23ee01071%40iitbbs.ac.in-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23ee01071@iitbbs.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-vivek4751-0d0221?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivek4751)
 
