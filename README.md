@@ -83,11 +83,11 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B%20Problems-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221)](https://leetcode.com/vivek4751)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0221)](https://leetcode.com/vivek4751)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Rating%201540-4f46e5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0221)](https://codechef.com/vivek4751)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Rating%201683-4f46e5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0221)](https://www.codechef.com/users/vivek4751)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201250-6d28d9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221)](https://codeforces.com/ranjanvivek515)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201250-6d28d9?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221)](https://codeforces.com/profile/ranjanvivek515)
 
 
 </div>
